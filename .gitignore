@@ -1,2 +1,2 @@
-Reports/*.txt
+Reports/**/*.txt
 /storage.json
